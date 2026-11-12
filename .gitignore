@@ -3,6 +3,7 @@ __pycache__/
 venv/
 .venv/
 .DS_Store
+*.md
 # Böyük xam data repoya qoyulmur (Kaggle-dan yüklənir)
 data/*.csv
 # models/ qəsdən git-ə daxildir: Streamlit deploy üçün lazımdır
