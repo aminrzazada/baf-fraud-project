@@ -1,0 +1,5 @@
+# Yalnız scripts/compare_boosters.py üçün (app və deploy üçün lazım deyil)
+-r requirements-dev.txt
+lightgbm>=4.0
+xgboost>=2.0
+catboost>=1.2

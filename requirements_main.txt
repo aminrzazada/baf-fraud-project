@@ -1,0 +1,7 @@
+# Streamlit app və modelin yüklənməsi üçün (Python >= 3.11)
+numpy>=1.26
+pandas>=2.1
+# Modelin joblib faylı bu versiya ilə hazırlanıb: pickle versiyalar arası uyğun olmaya bilər
+scikit-learn==1.9.1
+joblib>=1.3
+streamlit>=1.35

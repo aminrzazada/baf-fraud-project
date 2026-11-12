@@ -1,0 +1,3 @@
+,n_features,valid_pr_auc,valid_roc_auc,valid_tpr@5%fpr,test_pr_auc,test_roc_auc,test_tpr@5%fpr
+clean only (raw + missing indikatorlar),56.0,0.1876,0.8966,0.5315,0.1946,0.8936,0.5455
+clean + feature engineering (tam),72.0,0.1906,0.8967,0.533,0.193,0.8942,0.5417
